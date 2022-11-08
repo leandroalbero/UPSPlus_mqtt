@@ -365,3 +365,4 @@ FodyWeavers.xsd
 # solution/project files
 *.pyproj
 *.sln
+/venv/
